@@ -122,3 +122,6 @@ function giveRewardCL() {
 function cancelRewardCL() {
     sessionStorage.setItem("CancelRewardCL",1);
 }
+function sendCustomAnalyticsEvent(eventType, extras) {
+    console.log("AnalyticsEvent", eventType, extras);
+}

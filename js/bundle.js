@@ -5732,7 +5732,7 @@ var Loading_ZQDSS_View = /** @class */ (function (_super) {
         // this._processBar.width = width;
 
         progressPrec = process*100;
-        progressBar(process*100);
+        // progressBar(process*100);
     };
     return Loading_ZQDSS_View;
 }(ViewBase_1.default));
