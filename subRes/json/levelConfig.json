@@ -1,0 +1,104 @@
+[
+  {
+    "levelNum": 1,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 2,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 3,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },  
+  {
+    "levelNum": 4,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 5,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 6,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 7,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 8,
+    "isBoss": true,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 9,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 10,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 11,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 12,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 13,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+    {
+    "levelNum": 14,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 15,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 16,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  },
+  {
+    "levelNum": 17,
+    "isBoss": false,
+    "sceneIcon": "",
+    "moneyReward": 100
+  }
+]
